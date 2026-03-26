@@ -81,8 +81,3 @@ This project is licensed under the MIT License – feel free to use and modify i
 ## 👤 Author
 Md Moklesar Rahman (Bappy)
 - GitHub: @Md-Moklesar-Rahman-Bappy (github.com in Bing)
-
-This version emphasizes the **Pacman animation theme**, keeps the structure consistent with your other repositories, and makes it easy for others to understand, use, and contribute.  
-
-👉 Would you like me to also add a **GIF preview section** (showing Pacman moving and eating dots) so the README feels more engaging?
-
